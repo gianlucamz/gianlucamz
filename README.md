@@ -4,7 +4,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1572B6&width=435&lines=Desenvolvedor+Fullstack;Estudante+Fatec+%2B+IFSP;Apaixonado+por+backend+e+automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1572B6&width=435&lines=Desenvolvedor+Fullstack;Estudante+Fatec+%2B+IFSP;Interessado+por+backend+e+automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <p>
   Sou um desenvolvedor fullstack, ainda em desenvolvimento. Tenho muito interesse na área, especialmente em backend e automação de sistemas. Estou sempre aberto a aprender coisas novas e me adaptar a novos desafios. Estudo na Fatec e no IFSP.
